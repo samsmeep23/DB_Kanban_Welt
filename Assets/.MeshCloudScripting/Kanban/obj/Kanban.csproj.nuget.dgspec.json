@@ -1,0 +1,114 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Unity\\DB_Kanban_Welt\\Assets\\.MeshCloudScripting\\Kanban\\Kanban.csproj": {}
+  },
+  "projects": {
+    "C:\\Unity\\DB_Kanban_Welt\\Assets\\.MeshCloudScripting\\Kanban\\Kanban.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Unity\\DB_Kanban_Welt\\Assets\\.MeshCloudScripting\\Kanban\\Kanban.csproj",
+        "projectName": "Kanban",
+        "projectPath": "C:\\Unity\\DB_Kanban_Welt\\Assets\\.MeshCloudScripting\\Kanban\\Kanban.csproj",
+        "packagesPath": "C:\\Users\\Samsmeep Singh\\.nuget\\packages\\",
+        "outputPath": "C:\\Unity\\DB_Kanban_Welt\\Assets\\.MeshCloudScripting\\Kanban\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Unity\\DB_Kanban_Welt\\Assets\\.MeshCloudScripting\\Kanban\\NuGet.Config",
+          "C:\\Unity\\DB_Kanban_Welt\\Assets\\.MeshCloudScripting\\NuGet.Config",
+          "C:\\Users\\Samsmeep Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Unity\\DB_Kanban_Welt\\Assets\\.MeshCloudScripting\\.Packages\\9.24141.5": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.8.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.ApplicationInsights.WorkerService": {
+              "target": "Package",
+              "version": "[2.21.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, 9.0.0)",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Mesh.CloudScripting": {
+              "target": "Package",
+              "version": "[9.24141.5, 9.24141.5]",
+              "versionCentrallyManaged": true
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.2, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "CommandLineParser": "2.8.0",
+            "Microsoft.ApplicationInsights.WorkerService": "2.21.0",
+            "Microsoft.Extensions.Logging": "[8.0,9.0)",
+            "Microsoft.Mesh.CloudScripting": "[9.24141.5]",
+            "System.Drawing.Common": "4.7.2"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
